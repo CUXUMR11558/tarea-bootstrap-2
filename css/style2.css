@@ -1,0 +1,19 @@
+body{
+    background-image: url(../images/fondo1.1.jpeg);
+}
+
+.form{
+    background-color: rgba(0, 0, 0, 0.718);
+    margin: 50px;
+
+}
+
+.form1{
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    border: 5px solid white;
+    color: white;
+    font-size: 25px;
+}
